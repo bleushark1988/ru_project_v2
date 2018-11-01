@@ -1,0 +1,16 @@
+export const ACTIONS = {
+  LOAD_USERS: 'boilerplate/main/LOAD_USERS',
+  LOAD_USERS_SUCCESS: 'boilerplate/main/LOAD_USERS_SUCCESS',
+  LOAD_USERS_ERROR: 'boilerplate/main/LOAD_USERS_ERROR',
+  LOAD_PROJECTS: 'boilerplate/main/LOAD_PROJECTS',
+  LOAD_PROJECTS_SUCCESS: 'boilerplate/main/LOAD_PROJECTS_SUCCESS',
+  LOAD_PROJECTS_ERROR: 'boilerplate/main/LOAD_PROJECTS_ERROR',
+  LOAD_ROLES: 'boilerplate/main/LOAD_ROLES',
+  LOAD_ROLES_SUCCESS: 'boilerplate/main/LOAD_ROLES_SUCCESS',
+  LOAD_ROLES_ERROR: 'boilerplate/main/LOAD_ROLES_ERROR',
+  LOAD_RELATIONS: 'boilerplate/main/LOAD_RELATIONS',
+  LOAD_RELATIONS_SUCCESS: 'boilerplate/main/LOAD_RELATIONS_SUCCESS',
+  LOAD_RELATIONS_ERROR: 'boilerplate/main/LOAD_RELATIONS_ERROR',
+  ADD_RELATION: 'boilerplate/main/ADD_RELATION',
+  REMOVE_RELATION: 'boilerplate/main/REMOVE_RELATION',
+};
